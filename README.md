@@ -1,3 +1,4 @@
+TESSSSS
 # SIMPLE ONE LINER
 One Liner for Bug Bounty Hunting by `RootBakar`
 
